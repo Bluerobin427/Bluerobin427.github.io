@@ -179,8 +179,20 @@ section {
     width: 70%;
 }
 
+.Contact-row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .Contact-row p{
     margin:1em auto;
+
+}
+
+.Contact-element {
+    width: 45%;
 }
 
 .attribution a:link {
